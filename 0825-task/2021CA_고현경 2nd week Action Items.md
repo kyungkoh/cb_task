@@ -33,5 +33,5 @@ Cloud Barista 2주차 과제
 adminweb페이지에 들어가지지 않는다.
 ![](https://images.velog.io/images/kyungkoh/post/3d349596-1092-412d-adc1-e6a62cb28805/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-08-25%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2012.07.13.png)
 
-VM에 생성을 해놓아 네트워크 구성 문제 인듯 싶은데, 
-ubuntu private ip으로도 접속이 어려워 추가적으로 확인을 해보아야 할 것 같다..
++) Azure 콘솔에서 인바운드 TCP 포트 오픈 후 성공적으로 접속 되었습니다. 
+![](https://images.velog.io/images/kyungkoh/post/467d6f7f-8beb-482a-955f-967b63c3d9c4/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-08-25%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.28.55.png)
