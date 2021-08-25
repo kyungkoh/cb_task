@@ -28,6 +28,7 @@ Cloud Barista 2주차 과제
 
 ## 2nd Action Items2
 ---
+#### 1. Source Code를 이용한 Server 구동
 
 현재 설치는 다했으나.. 
 adminweb페이지에 들어가지지 않는다.
@@ -35,3 +36,10 @@ adminweb페이지에 들어가지지 않는다.
 
 +) Azure 콘솔에서 인바운드 TCP 포트 오픈 후 성공적으로 접속 되었습니다. 
 ![](https://images.velog.io/images/kyungkoh/post/467d6f7f-8beb-482a-955f-967b63c3d9c4/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-08-25%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%209.28.55.png)
+
+#### 2. Docker를 이용한 Server 구동 
+1) Docker Desktop for macos를 설치 후 
+2) terminal에서 ```docker -v```으로 구동 확인 
+3) 아래 URL을 통해서 설치 및 구동 완료 
+https://github.com/cloud-barista/cb-spider/wiki/How-to-run-CB-Spider-Container-on-macOS
+![](https://images.velog.io/images/kyungkoh/post/aeb377e9-7817-4d24-b65c-9eef9ff2891a/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-08-25%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%2010.18.46.png)
